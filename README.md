@@ -1,2 +1,1 @@
-# vance-content
-Fork of gitlab/adv-software/vance-content
+https://gitlab.com/hy1ex/vance-content
